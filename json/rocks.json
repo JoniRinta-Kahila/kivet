@@ -1,0 +1,85 @@
+{
+  "kivet": {
+    "100": {
+      "heading": "Tervetuloa!",
+      "column1": "Tutki Yliopistojen LUMA-keskus Suomi -verkoston kivikokoelmaa lukemalla kiviin sijoitettuja QR-koodeja Android laitteesi kameralla. Koodin lukemisen jälkeen, sovellus kertoo sinulle löytämäsi kiven nimen sekä paljon kiinnostavaa tietoa kiven ominaisuuksista. Kivien tutkimisen jälkeen voit siirtyä QUIZ osioon, testaamaan kivitietämystäsi.",
+      "subheading": "Yliopistojen LUMA-keskus Suomi",
+      "column2": "-verkoston tavoitteena on innostaa ja kannustaa lapsia ja nuoria matematiikan, ympäristöopin, luonnontieteiden ja teknologian opiskeluun ja harrastamiseen uusien tiede- ja teknologiakasvatuksen avausten kautta, tukea opettajia elinikäiseen oppimiseen varhaiskasvatuksesta korkeakouluihin koko Suomessa, sekä vahvistaa tutkimuspohjaista opetuksen kehittämistyötä.",
+      "image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJcO4CfKRPK3CO7lgLyMk43UdxsoE4e8Sehg&usqp=CAU",
+      "image2": "https://www.luma.fi/wp-content/uploads/2017/02/luma-multicolored.png",
+      "talkingbook": "https://rints.in/luma/rockdex/TalkingBook-Intro.wav"
+    },
+    "101": {
+      "heading": "Kvartsiitti",
+      "column1": "Kvartsiitti on metamorfoitumalla eli Maan kuoressa kovassa paineessa ja kuumuudessa pääasiassa kvartsihiekkakivestä syntynyt kivilaji, jossa alkuperäinen, hiekkakivelle ominainen kerrosrakenne on usein säilynyt.",
+      "subheading": "Tunnistaminen",
+      "column2": "Kvartsiitti voi olla myös voimakkaasti liuskeista. Väriltään se voi olla vaalea, harmaa, punertava tai vihertävä.[1] Suomen kallioperässä kvartsiitti on varsin yleinen kivilaji, ja monet Keski-Lapin tuntureista koostuvat kvartsiitista.",
+      "image1": "https://previews.123rf.com/images/yamabikay/yamabikay1611/yamabikay161100166/65549337-luxury-quartzite-texture-close-up-high-resolution-photo-.jpg",
+      "image2": "https://previews.123rf.com/images/yamabikay/yamabikay1611/yamabikay161100166/65549337-luxury-quartzite-texture-close-up-high-resolution-photo-.jpg",
+      "talkingbook": "https://rints.in/luma/rockdex/Kvartsiitti.wav"
+    },
+    "102": {
+      "heading": "Migmatiitti",
+      "column1": "Migmatiitti eli seoskivi on metamorfinen kivilaji, joka koostuu vähintään kahdesta kivilajista, useimmiten vanhemmasta gneissistä ja nuoremmasta graniitista.",
+      "subheading": "Tunnistaminen",
+      "column2": "Siinä on voi olla esimerkiksi puna-harmaita tai valko-harmaita (suonigneissi) raitamaisia kuvioita. Migmatiittia voidaan käyttää rakennuskivenä. Suomalainen petrologi Jakob Sederholm (1863–1934) oli migmatiittien tutkija ja loi nimityksen migmatiitti vuonna 1907. Nimi pohjautuu muinaisen kreikan kieleen ja tarkoittaa sekakiveä.",
+      "image1": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ptigmatite.jpg",
+      "image2": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ptigmatite.jpg",
+      "talkingbook": "https://rints.in/luma/rockdex/Migmatiitti.wav"
+    },
+    "103": {
+      "heading": "Graniitti",
+      "column1": "Graniitti koostuu kvartsista, kiilteestä, maasälvästä ja joskus myös sarvivälkkeestä, jotka voidaan erottaa rakeina kiven pinnassa. Graniitin väri vaihtelee melko paljon maasälvän värin ja määrän mukaan tumman punaruskeasta vaaleanharmaaseen.",
+      "subheading": "Radioaktiivisuus",
+      "column2": "Graniitissa on pieniä määriä uraania ja toriumia, jotka aiheuttavat radioaktiivista säteilyä. Yleensä säteilymäärät ovat erittäin pieniä, mutta joskus merkittäviä.",
+      "image1": "https://thumb.mp-farm.com/27387311/preview.jpg",
+      "image2": "https://kaiva.fi/wp-content/uploads/2018/04/Raitainen_gneissi-300x196.jpg",
+      "talkingbook": "https://rints.in/luma/rockdex/Graniitti.wav"
+    },
+    "104": {
+      "heading": "Maasälpä",
+      "column1": "Maasälvät ovat hyvin yleisiä hohkasilikaattimineraaleja maankuoressa. Niitä esiintyy lähes kaikissa syväkivissä, metamorfisissa kivissä ja monissa sedimenttikivissä.",
+      "subheading": "Koostumus ja kiderakenne",
+      "column2": "Maasälpien yleinen kaava on XAl(Si,Al)Si2O3, jossa X on jokin seuraavista alkuaineista: K, Na, Ca tai Ba. Suurin osa kivien maasälvistä on kiinteitä liuoksia. Maasälpien puhtaat päätejäsenet ovat anortiitti (Ca-plagioklaasi), albiitti (Na-plagioklaasi), ortoklaasi, mikrokliini ja sanidiini (K-maasälvät eli kalimaasälvät). Albiitin ja ortoklaasin muodostamaa seossarjaa kutsutaan alkalimaasälviksi, ja anortiitin ja albiitin välistä sarjaa plagioklaasimaasälviksi. K-maasälvän- ja Ca- maasälvän päätejäsenten välistä seossarjaa ei luonnosta tunneta.",
+      "image1": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Feldspat-Kristall.jpg",
+      "image2": "https://kuvat.huuto.net/v1/8d5b/df7177278edf19d4c476e2307c1/422665482-m.jpg",
+      "talkingbook": "https://rints.in/luma/rockdex/Maasälpä.wav"
+    },
+    "105": {
+      "heading": "Anortiitti",
+      "column1": "Anortiitti eli kalkkimaasälpä CaAl2Si2O8, on yksi plagioklaasia muodostavista maasälpälajeista.[1] Se on yleinen mineraali maankuoressa, sitä on löydetty myös Kuusta ja eräästä komeetasta. Se on yleensä valkoista tai väritöntä. Sen nimi tulee kreikan sanoista an- (epä-) ja orthos, suora, ja kuvaa mineraalin kiderakennetta. Kiteet muodostavat prismoja. Mineraali on läpinäkyvä tai läpikuultava. Mineraalia esiintyy laavakivissä.",
+      "subheading": "",
+      "column2": "",
+      "image1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Anorthit_Miyake%2CJapan.JPG",
+      "image2": "",
+      "talkingbook": "https://rints.in/luma/rockdex/Anortiitti.wav"
+    },
+    "106": {
+      "heading": "Vulkaniitti",
+      "column1": "Vulkaniitti tunnetaan myös yksinkertaisesti nimellä pintakivi. Vulkaniitit syntyvät maan pinnalle tunkeutuneesta magmasta eli laavasta jähmettymällä.",
+      "subheading": "Koostumus",
+      "column2": "Pintakivien kemiallinen koostumus on sama kuin syväkivilläkin, mutta fyysinen rakenne on varsin erilainen erilaisista jähmettymisolosuhteista johtuen. Pintakivien perusrakenne on varsin pienirakeista, mutta seassa on myös suurempia hajarakeita. Kiveen on saattanut jäädä myös onteloita.",
+      "image1": "https://i.pinimg.com/originals/40/03/ee/4003eecc275fd81c39c393ff1dedece5.jpg",
+      "image2": "https://saunologia.fi/wp-content/uploads/2018/04/180409-saunaeurox-hieno-od-0784-1600x1017.jpg",
+      "talkingbook": "https://rints.in/luma/rockdex/Vulkaniitti.wav"
+    },
+    "107": {
+      "heading": "Gneissi",
+      "column1": "Gneissi on yleinen metamorfinen kivilaji, joka on tyypillisesti keski- tai karkearakeinen, ja jossa on koostumusraitaisuutena ilmenevä suuntaus. Gneissi-nimitystä käytetään erityisesti maasälpä–kvartsi-pitoisista kivistä, mutta mineraalikoostumus ei ole olennainen osa gneissin määrittelmää. Gneissiä syntyy korkean asteen (korkean lämpötilan) aluemetamorfoosissa. Kun graniitti metamorfoituu paineen alaisena, siitä tulee graniittigneissiä. Graniitti ja gneissi muodostuvat samoista mineraaleista: niissä on maasälpää, kiillettä ja kvartsia. Väriltään se on joko harmaa tai punertava, joskus myös melkein musta.",
+      "subheading": "",
+      "column2": "Kun graniitti metamorfoituu paineen alaisena, siitä tulee graniittigneissiä. Graniitti ja gneissi muodostuvat samoista mineraaleista: niissä on maasälpää, kiillettä ja kvartsia. Väriltään se on joko harmaa tai punertava, joskus myös melkein musta. Gneissejä voidaan myös nimetä mineraalikoostumuksensa mukaan, esimerkiksi kiillegneissi, joka sisältää hyvin runsaasti kiillettä. Kiillegneissin väri vaihtelee mustasta harmaaseen. Kiilteestä johtuen rakenne on usein liuskeinen. Magmakivistä syntyneistä gneisseistä käytetään myös nimitystä ortogneissi, sedimenttikivistä syntyneitä kutsutaan nimellä paragneissi. Seoskiviin eli migmatiitteihin kuuluvan suonigneissin tunnistaa kerrosmaisesti vuorottelevista vaaleista ja tummista raidoista. Suomen maakuntakivistä gneissi on Keski-Pohjanmaan maakuntakivi.",
+      "image1": "https://kaiva.fi/wp-content/uploads/2018/04/Raitainen_gneissi.jpg",
+      "image2": "https://www.kivilahde.fi/app/uploads/2018/12/kivilahde_kivitaso_punainen_gneissi_2-768x768.jpg",
+      "talkingbook": "https://rints.in/luma/rockdex/Gneissi.wav"
+    },
+    "108": {
+      "heading": "Kiilleliuske",
+      "column1": "Kiilleliuske on metamorfinen, väriltään harmahtava ja yleisesti tummahko liuskekivilaji. Se on koostumukseltaan hyvin samankaltainen kuin fylliitti, mutta fylliittiä selvästi karkearakeisempi. Yksittäiset mineraalirakeet ovat usein erotettavissa silmämääräisesti. Toisinaan se lohkeilee levyiksi. Kiilleliuskeen päämineraaleja ovat kvartsi, maasälvät sekä kiilteet (biotiitti ja muskoviitti). Kiilleliuskeet ovat usein syntyisin savikivistä, josta se metamorfoosin myötä muuttuu ensin saviliuskeeksi, sitten fylliitiksi ja edelleen kiilleliuskeeksi. Kiilleliusketta käytetään rakennuskivinä, erityisesti verhouksissa ja laattoina.",
+      "subheading": "",
+      "column2": "",
+      "image1": "http://www.geologia.fi/wp-content/uploads/2018/08/kiilleliuske1.jpg",
+      "image2": "",
+      "talkingbook": "https://rints.in/luma/rockdex/Kiilleliuske.wav"
+    }
+  }
+}
