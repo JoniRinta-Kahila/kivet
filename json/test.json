@@ -1,18 +1,47 @@
 {
-	"stones": {
+	"kivet": {
 		"100": {
 			"r1": {
-				"heading": "Eskari",
-				"column1": "TÄMÄ",
-				"subheading": "",
-				"column2": "",
-				"image1": "",
-				"image2": "",
-				"talkingbook": ""
+				"heading": "Tervetuloa (r1)",
+				"column1": "Tutki Yliopistojen LUMA-keskus Suomi -verkoston kivikokoelmaa lukemalla kiviin sijoitettuja QR-koodeja Android laitteesi kameralla. Koodin lukemisen jälkeen, sovellus kertoo sinulle löytämäsi kiven nimen sekä paljon kiinnostavaa tietoa kiven ominaisuuksista. Kivien tutkimisen jälkeen voit siirtyä QUIZ osioon, testaamaan kivitietämystäsi.",
+				"subheading": "Yliopistojen LUMA-keskus Suomi",
+				"column2": "-verkoston tavoitteena on innostaa ja kannustaa lapsia ja nuoria matematiikan, ympäristöopin, luonnontieteiden ja teknologian opiskeluun ja harrastamiseen uusien tiede- ja teknologiakasvatuksen avausten kautta, tukea opettajia elinikäiseen oppimiseen varhaiskasvatuksesta korkeakouluihin koko Suomessa, sekä vahvistaa tutkimuspohjaista opetuksen kehittämistyötä.",
+				"image1": "https://rints.in/luma/rockdex/Graniitti_Kummakivi.png",
+				"image2": "https://www.luma.fi/wp-content/uploads/2017/02/luma-multicolored.png",
+				"talkingbook": "https://rints.in/luma/rockdex/TalkingBook-Intro.wav"
 			},
 			"r2": {
-				"heading": "Ykköset ja Kakkoset",
-				"column1": "ON",
+				"heading": "Tervetuloa (r2)",
+				"column1": "Tutki Yliopistojen LUMA-keskus Suomi -verkoston kivikokoelmaa lukemalla kiviin sijoitettuja QR-koodeja Android laitteesi kameralla. Koodin lukemisen jälkeen, sovellus kertoo sinulle löytämäsi kiven nimen sekä paljon kiinnostavaa tietoa kiven ominaisuuksista. Kivien tutkimisen jälkeen voit siirtyä QUIZ osioon, testaamaan kivitietämystäsi.",
+				"subheading": "Yliopistojen LUMA-keskus Suomi",
+				"column2": "-verkoston tavoitteena on innostaa ja kannustaa lapsia ja nuoria matematiikan, ympäristöopin, luonnontieteiden ja teknologian opiskeluun ja harrastamiseen uusien tiede- ja teknologiakasvatuksen avausten kautta, tukea opettajia elinikäiseen oppimiseen varhaiskasvatuksesta korkeakouluihin koko Suomessa, sekä vahvistaa tutkimuspohjaista opetuksen kehittämistyötä.",
+				"image1": "https://rints.in/luma/rockdex/Graniitti_Kummakivi.png",
+				"image2": "https://www.luma.fi/wp-content/uploads/2017/02/luma-multicolored.png",
+				"talkingbook": "https://rints.in/luma/rockdex/TalkingBook-Intro.wav"
+			},
+			"r3": {
+				"heading": "Tervetuloa (r3)",
+				"column1": "Tutki Yliopistojen LUMA-keskus Suomi -verkoston kivikokoelmaa lukemalla kiviin sijoitettuja QR-koodeja Android laitteesi kameralla. Koodin lukemisen jälkeen, sovellus kertoo sinulle löytämäsi kiven nimen sekä paljon kiinnostavaa tietoa kiven ominaisuuksista. Kivien tutkimisen jälkeen voit siirtyä QUIZ osioon, testaamaan kivitietämystäsi.",
+				"subheading": "Yliopistojen LUMA-keskus Suomi",
+				"column2": "-verkoston tavoitteena on innostaa ja kannustaa lapsia ja nuoria matematiikan, ympäristöopin, luonnontieteiden ja teknologian opiskeluun ja harrastamiseen uusien tiede- ja teknologiakasvatuksen avausten kautta, tukea opettajia elinikäiseen oppimiseen varhaiskasvatuksesta korkeakouluihin koko Suomessa, sekä vahvistaa tutkimuspohjaista opetuksen kehittämistyötä.",
+				"image1": "https://rints.in/luma/rockdex/Graniitti_Kummakivi.png",
+				"image2": "https://www.luma.fi/wp-content/uploads/2017/02/luma-multicolored.png",
+				"talkingbook": "https://rints.in/luma/rockdex/TalkingBook-Intro.wav"
+			}
+		},
+		"101": {
+			"r1": {
+        "heading": "Kvartsi",
+        "column1": "Hei, olen mineraali nimeltä kvartsi ja olen tosi kova. Niin kova, että pystyn naarmuttamaan lasiakin! Olen myös tosi tärkeä, sillä olen yhdessä maasälvän ja kiilteen kanssa muodostamassa yli miljardi vuotta vanhaa graniittia, josta Suomen kallioperä suurimmaksi osaksi muodostuu. Minusta on hyötyä esimerkiksi lasinvalmistuksessa. Enkä toki halua mitenkään koreilla, mutta korukivenäkin olen hieno ja käyttökelpoinen. Kiillän kauniisti, enkä aina ole läpinäkyvä tai valkoinen, vaan joskus myös ruusunpunainen tai sininen. Minut löydät monesta paikasta, olenhan maankuoren yleisin mineraali! Saatamme tavata esimerkiksi soratiellä tai parkkialueella, mihin on levitetty kallioista louhittua mursketta. Joskus pyörin muuten vain rantakivikossa tai vaikka metsäpolulla. Tapaamisiin!",
+        "subheading": "",
+        "column2": "",
+        "image1": "https://rints.in/luma/rockdex/Kvartsi_läpinäkyvä.png",
+        "image2": "https://rints.in/luma/rockdex/Kvartsit.png",
+        "talkingbook": ""
+			},
+			"r2": {
+				"heading": "",
+				"column1": "",
 				"subheading": "",
 				"column2": "",
 				"image1": "",
@@ -20,8 +49,8 @@
 				"talkingbook": ""
 			},
 			"r3": {
-				"heading": "Vähän vanhemmat",
-				"column1": "TESTI",
+				"heading": "",
+				"column1": "",
 				"subheading": "",
 				"column2": "",
 				"image1": "",
@@ -29,15 +58,15 @@
 				"talkingbook": ""
 			}
 		},
-		"101": {
+		"102": {
 			"r1": {
-				"heading": "",
-				"column1": "",
-				"subheading": "",
-				"column2": "",
-				"image1": "",
-				"image2": "",
-				"talkingbook": ""
+        "heading": "Ametisti",
+        "column1": "Hei, olen mineraali nimeltä ametisti. Tai oikeastaan olen kyllä kvartsi, mutta vähän niin kuin valeasussa. Minua vain nimitetään ametistiksi, koska syntyessäni miljardi vuotta sitten imaisin itseeni hieman rautaa, jonka vuoksi olen väriltäni enemmän tai vähemmän violetti. Jos minulla on syntyessäni ollut tilaa, muodostan mielelläni kiteitä ja jopa kidesykeröitä. Korukivenä olen erittäin kaunis. Jos joskus vierailet Luostotunturin ametistikaivoksilla, löydät minut sieltä. Ja hei, onpa minussa jotain taianomaistakin: kun yhdistyn ruskean savu- ja valkean maitokvartsin kanssa, kutsuvat shamaani- eli tietäjäkiveksi.",
+        "subheading": "",
+        "column2": "",
+        "image1": "https://rints.in/luma/rockdex/Ametisti_iso.png",
+        "image2": "https://rints.in/luma/rockdex/Ametisti2.png",
+        "talkingbook": ""
 			},
 			"r2": {
 				"heading": "",
@@ -57,6 +86,122 @@
 				"image2": "",
 				"talkingbook": ""
 			}
-		}
+		},
+		"103": {
+			"r1": {
+        "heading": "Granaatti",
+        "column1": "Heippa, minä olen granaatti. Enkä mikään omena, vaan mineraali. Vaikken ole yhtä kova kuin kvartsi, niin aika lähelle sitä. Olen tummanpunainen, joskus ruskeakin ja muodoltani hieman kulmikkaan pallomainen. Korukiveksikin kelpaan, jos satun olemaan läpikuultava ja riittävän ehjä. Lapin kultamailla pyörin usein kultahippujen kaverina, mutta helpommin minut löytää pieninä kiteinä, vaikka graniittiin tai gneissiin takertuneena melkein mistä tahansa, kun oikein tarkasti katsoo.",
+        "subheading": "",
+        "column2": "",
+        "image1": "https://rints.in/luma/rockdex/Graniitti_Kummakivi.png",
+        "image2": "https://rints.in/luma/rockdex/Rapakivigraniitti_iso.png",
+        "talkingbook": ""
+			},
+			"r2": {
+				"heading": "",
+				"column1": "",
+				"subheading": "",
+				"column2": "",
+				"image1": "",
+				"image2": "",
+				"talkingbook": ""
+			},
+			"r3": {
+				"heading": "",
+				"column1": "",
+				"subheading": "",
+				"column2": "",
+				"image1": "",
+				"image2": "",
+				"talkingbook": ""
+			}
+		},
+		"104": {
+			"r1": {
+        "heading": "Kiille",
+        "column1": "Kiille tässä, hei! Kaikki ei ole kultaa, mikä kiiltää, sanovat ja taitaapa joku kissankullaksikin haukkua. No komeasti minä kuitenkin kiillän. Kutsuvat biotiitiksi, jos olen musta ja muskoviitiksi, jos olen vaalea. Joskus harvemmin olen violetin värinen, ja silloin minua pitää kutsua lepidoliitiksi (joo, aika vaikea eli le-pi-do-liit-ti). Olen aika pehmeä, ja yksinäni hajoan helposti ohuiksi liuskoiksi, mutta yhdessä kovien kavereideni maasälvän ja kvartsin kanssa muodostan yli miljardi vuotta vanhaa kivilajia graniittia, josta Suomen vahva kallioperä suurimmaksi osaksi muodostuu. Yhteistyössä on siis voimaa!",
+        "subheading": "",
+        "column2": "",
+        "image1": "https://rints.in/luma/rockdex/Kiille.png",
+        "image2": "",
+        "talkingbook": ""
+			},
+			"r2": {
+				"heading": "",
+				"column1": "",
+				"subheading": "",
+				"column2": "",
+				"image1": "",
+				"image2": "",
+				"talkingbook": ""
+			},
+			"r3": {
+				"heading": "",
+				"column1": "",
+				"subheading": "",
+				"column2": "",
+				"image1": "",
+				"image2": "",
+				"talkingbook": ""
+			}
+		},
+		"105": {
+			"r1": {
+        "heading": "Maasälpä",
+        "column1": "Minä kilpailen kvartsin kanssa maankuoren yleisimmän mineraalin arvonimestä. Vaikka kavereitahan me olemme, vietämme paljon aikaa yhdessä Suomen ikivanhassa kallioperää muodostavassa graniittikivessä. Minä olen kuitenkin se, joka aikaansaa graniitin värin: joskus se on punertava ja joskus vihertävä. Väri riippuu siitä, mitä alkuainetta olen sattunut kulloinkin ottamaan sisuksiini. Omasta mielestäni lohkean erittäin hienostuneesti ja selkeästi, sanoisinko peräti laatikkomaisesti. Minut tapaat missä tahansa hiekka- tai soratiellä tai tienposkessa, useimmiten vaaleanoranssina tai punertavana. Ja hei, kyllä minunlaisistani korujakin tehdään! Upeasti eri värejä heijastava korukivi spektroliitti on nimittäin maasälpää ja spektroliittia löytyy Suomen lisäksi vain harvasta muusta paikasta.",
+        "subheading": "",
+        "column2": "",
+        "image1": "https://rints.in/luma/rockdex/Maasälpä.png",
+        "image2": "https://rints.in/luma/rockdex/Maasälpä2.png",
+        "talkingbook": ""
+			},
+			"r2": {
+				"heading": "",
+				"column1": "",
+				"subheading": "",
+				"column2": "",
+				"image1": "",
+				"image2": "",
+				"talkingbook": ""
+			},
+			"r3": {
+				"heading": "",
+				"column1": "",
+				"subheading": "",
+				"column2": "",
+				"image1": "",
+				"image2": "",
+				"talkingbook": ""
+			}
+		},
+    "106": {
+			"r1": {
+				"heading": "Kalsiitti",
+        "column1": "En kovin, enkä kauneinkaan, mutta monikäyttöisin mineraali minä olen! Olen mukana muodostamassa marmoria ja kalkkikiveä, eivätkä vuosimiljoonien kuluessa tapahtuva tippukivien muodostuminen tapahtuisi ilman minua. Rakentaminen on minun juttuni, sillä olen sementin ja laastin tärkeä ainesosa. On minulla sellainenkin supervoima, että osaan tehdä happamasta neutraalia! Ja arvaa mitä: kertovat, että viikinkien kauan, kauan sitten merenkulussa hyödyntämät, valoa erityisesti taittavat Aurinkokivet olisivat olleet kalsiittia. Hiiohoi!",
+        "subheading": "",
+        "column2": "",
+        "image1": "",
+        "image2": "",
+        "talkingbook": ""
+			},
+      "r2": {
+        "heading": "",
+        "column1": "",
+        "subheading": "",
+        "column2": "",
+        "image1": "",
+        "image2": "",
+        "talkingbook": ""
+      },
+      "r3": {
+        "heading": "",
+        "column1": "",
+        "subheading": "",
+        "column2": "",
+        "image1": "",
+        "image2": "",
+        "talkingbook": ""
+      }
+    }
 	}
 }
