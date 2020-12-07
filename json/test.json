@@ -2,7 +2,7 @@
 	"stones": {
 		"100": {
 			"r1": {
-				"heading": "Tervetuloa (r1)",
+				"heading": "Tervetuloa",
 				"column1": "Tutki Yliopistojen LUMA-keskus Suomi -verkoston kivikokoelmaa lukemalla kiviin sijoitettuja QR-koodeja Android laitteesi kameralla. Koodin lukemisen jälkeen, sovellus kertoo sinulle löytämäsi kiven nimen sekä paljon kiinnostavaa tietoa kiven ominaisuuksista. Kivien tutkimisen jälkeen voit siirtyä QUIZ osioon, testaamaan kivitietämystäsi.",
 				"subheading": "Yliopistojen LUMA-keskus Suomi",
 				"column2": "-verkoston tavoitteena on innostaa ja kannustaa lapsia ja nuoria matematiikan, ympäristöopin, luonnontieteiden ja teknologian opiskeluun ja harrastamiseen uusien tiede- ja teknologiakasvatuksen avausten kautta, tukea opettajia elinikäiseen oppimiseen varhaiskasvatuksesta korkeakouluihin koko Suomessa, sekä vahvistaa tutkimuspohjaista opetuksen kehittämistyötä.",
